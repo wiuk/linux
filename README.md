@@ -1,1 +1,1 @@
-# [linux_basic](https://wiuk.github.io/linux_basic/)
+# [linux_basic](https://wiuk.github.io/linux-basic/)
